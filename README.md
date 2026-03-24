@@ -7,12 +7,12 @@ Exercício com Lista Simplesmente Encadeada (Linked List).
 - [x] Criação/Inicialização: criar uma lista vazia
 - [x] Inserção: início da lista
 - [x] Liberar lista (destroi): Liberar a memória da lista
-- [ ] Mostrar lista: imprime os elementos da lista
-- [ ] Lista Vazia: verifica se lista está vazia
-- [ ] Número de Elementos: quantidade de elementos na lista
-- [ ] Inserção: posição específica
-- [ ] Remoção: elemento (node) de posição específica
-- [ ] Inversão: Inverter os elementos da lista
+- [x] Mostrar lista: imprime os elementos da lista
+- [x] Lista Vazia: verifica se lista está vazia
+- [x] Número de Elementos: quantidade de elementos na lista
+- [x] Inserção: posição específica
+- [x] Remoção: elemento (node) de posição específica
+- [x] Inversão: Inverter os elementos da lista
 
 ## Pré-requisitos
 
@@ -25,9 +25,12 @@ Exercício com Lista Simplesmente Encadeada (Linked List).
 ## Instalação
 
 1. Clone o repositório.
+ `git clone https://github.com/pepohta/PedroHTAndreazza-01-exercicio-linked-list.git`
 2. Certifique-se de ter o `g++` e `gdb` instalados em seu sistema.
 
 # Execução
+
+
 
 ## Compilação Manual
 
